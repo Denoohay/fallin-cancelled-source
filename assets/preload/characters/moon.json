@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fgIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fgSingLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fgSingDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fgSingUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fgSingRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/moon",
+	"position": [
+		-80,
+		60
+	],
+	"healthicon": "moon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		236,
+		112
+	],
+	"camera_position": [
+		5,
+		70
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="exit_buttons.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="exit_idle0000" x="23" y="23" width="634" height="456"/>
+	<SubTexture name="exit_press0000" x="697" y="23" width="634" height="456"/>
+	<SubTexture name="exit_press0001" x="1371" y="23" width="634" height="456"/>
+	<SubTexture name="exit_press0002" x="23" y="519" width="634" height="456"/>
+	<SubTexture name="exit_press0003" x="697" y="519" width="634" height="456"/>
+	<SubTexture name="exit_press0004" x="1371" y="519" width="634" height="456"/>
+	<SubTexture name="exit_press0005" x="23" y="1015" width="634" height="456"/>
+	<SubTexture name="exit_press0006" x="697" y="1015" width="634" height="456"/>
+	<SubTexture name="exit_press0007" x="1371" y="1015" width="634" height="456"/>
+	<SubTexture name="exit_press0008" x="23" y="1511" width="634" height="456"/>
+	<SubTexture name="exit_press0009" x="697" y="1511" width="634" height="456"/>
+	<SubTexture name="exit_press0010" x="1371" y="1511" width="634" height="456"/>
+	<SubTexture name="exit_press0011" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0012" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0013" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0014" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0015" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0016" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0017" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0018" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0019" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0020" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0021" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0022" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_press0023" x="23" y="2007" width="634" height="456"/>
+	<SubTexture name="exit_select0000" x="23" y="2007" width="634" height="456"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "fgIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fgSingLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fgSingDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fgSingUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fgSingRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/apple",
+	"position": [
+		-120,
+		130
+	],
+	"healthicon": "apple",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		187,
+		229
+	],
+	"camera_position": [
+		25,
+		20
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

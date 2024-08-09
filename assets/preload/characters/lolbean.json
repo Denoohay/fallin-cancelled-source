@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lolLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lolDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lolUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lolRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lolbean",
+	"position": [
+		-20,
+		210
+	],
+	"healthicon": "lolbean",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		183,
+		237
+	],
+	"camera_position": [
+		-20,
+		-30
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

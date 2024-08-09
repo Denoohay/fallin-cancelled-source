@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "fgIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				-18
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fgSingLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-32,
+				38
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fgSingDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				20
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fgSingUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				98,
+				-14
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fgSingRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/summer",
+	"position": [
+		-110,
+		190
+	],
+	"healthicon": "fall-guy",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		78,
+		139
+	],
+	"camera_position": [
+		55,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="fallguy.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="fgIdle 0000" x="23" y="23" width="642" height="618"/>
+	<SubTexture name="fgSelected 0000" x="705" y="23" width="642" height="618"/>
+	<SubTexture name="fgSelected 0001" x="1387" y="23" width="642" height="618"/>
+	<SubTexture name="fgSelected 0002" x="2069" y="23" width="642" height="618"/>
+	<SubTexture name="fgSelected 0003" x="2751" y="23" width="642" height="618"/>
+	<SubTexture name="fgSelected 0004" x="23" y="681" width="642" height="618"/>
+	<SubTexture name="fgSelected 0005" x="705" y="681" width="642" height="618"/>
+	<SubTexture name="fgSelected 0006" x="1387" y="681" width="642" height="618"/>
+	<SubTexture name="fgSelected 0007" x="2069" y="681" width="642" height="618"/>
+	<SubTexture name="fgSelected 0008" x="2751" y="681" width="642" height="618"/>
+	<SubTexture name="fgSelected 0009" x="23" y="1339" width="642" height="618"/>
+	<SubTexture name="fgSelected 0010" x="705" y="1339" width="642" height="618"/>
+	<SubTexture name="fgSelected 0011" x="1387" y="1339" width="642" height="618"/>
+	<SubTexture name="fgSelected 0012" x="1387" y="1339" width="642" height="618"/>
+	<SubTexture name="fgSelected 0013" x="1387" y="1339" width="642" height="618"/>
+	<SubTexture name="fgSelected 0014" x="1387" y="1339" width="642" height="618"/>
+</TextureAtlas>

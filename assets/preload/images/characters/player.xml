@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="player.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="playerIdle0000" x="23" y="23" width="666" height="560"/>
+	<SubTexture name="playerRight0000" x="23" y="23" width="666" height="560"/>
+	<SubTexture name="playerLeft0000" x="23" y="23" width="666" height="560"/>
+	<SubTexture name="playerDown0000" x="23" y="23" width="666" height="560"/>
+	<SubTexture name="playerUp0000" x="23" y="23" width="666" height="560"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "betterbean",
+		"player1": "calobi-sus",
+		"player2": "calobi-guy",
+		"player3": null,
+		"events": [
+			[
+				56000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"calobi-guy-boody"
+					]
+				]
+			],
+			[
+				57500,
+				[
+					[
+						"Play Animation",
+						"bruh",
+						"bf"
+					]
+				]
+			],
+			[
+				57750,
+				[
+					[
+						"Play Animation",
+						"bruh",
+						"bf"
+					]
+				]
+			],
+			[
+				58000,
+				[
+					[
+						"Play Animation",
+						"bruh",
+						"bf"
+					]
+				]
+			],
+			[
+				58250,
+				[
+					[
+						"Play Animation",
+						"bruh",
+						"bf"
+					]
+				]
+			],
+			[
+				58500,
+				[
+					[
+						"Play Animation",
+						"bruh",
+						"bf"
+					]
+				]
+			],
+			[
+				66666.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"calobi-guy"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nothing",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Better Bean"
+	}
+}

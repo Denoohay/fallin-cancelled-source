@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="circutsBlue.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="circutsBlue0000" x="23" y="23" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0001" x="1249" y="23" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0002" x="2475" y="23" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0003" x="23" y="787" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0004" x="1249" y="787" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0005" x="2475" y="787" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0006" x="23" y="1551" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0007" x="1249" y="1551" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0008" x="2475" y="1551" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0009" x="23" y="2315" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0010" x="1249" y="2315" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0011" x="2475" y="2315" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0012" x="23" y="3079" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0013" x="1249" y="3079" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0014" x="2475" y="3079" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0015" x="23" y="3843" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0016" x="1249" y="3843" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0017" x="2475" y="3843" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0018" x="23" y="4607" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0019" x="1249" y="4607" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0020" x="2475" y="4607" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0021" x="23" y="5371" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0022" x="1249" y="5371" width="1186" height="724"/>
+	<SubTexture name="circutsBlue0023" x="2475" y="5371" width="1186" height="724"/>
+</TextureAtlas>

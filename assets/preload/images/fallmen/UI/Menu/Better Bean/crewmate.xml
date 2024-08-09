@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="crewmate.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="susIdle 0000" x="23" y="23" width="671" height="614"/>
+	<SubTexture name="susSelected 0000" x="734" y="23" width="671" height="614"/>
+	<SubTexture name="susSelected 0001" x="1445" y="23" width="671" height="614"/>
+	<SubTexture name="susSelected 0002" x="2156" y="23" width="671" height="614"/>
+	<SubTexture name="susSelected 0003" x="2867" y="23" width="671" height="614"/>
+	<SubTexture name="susSelected 0004" x="23" y="677" width="671" height="614"/>
+	<SubTexture name="susSelected 0005" x="734" y="677" width="671" height="614"/>
+	<SubTexture name="susSelected 0006" x="1445" y="677" width="671" height="614"/>
+	<SubTexture name="susSelected 0007" x="2156" y="677" width="671" height="614"/>
+	<SubTexture name="susSelected 0008" x="2867" y="677" width="671" height="614"/>
+	<SubTexture name="susSelected 0009" x="23" y="1331" width="671" height="614"/>
+	<SubTexture name="susSelected 0010" x="734" y="1331" width="671" height="614"/>
+	<SubTexture name="susSelected 0011" x="1445" y="1331" width="671" height="614"/>
+	<SubTexture name="susSelected 0012" x="1445" y="1331" width="671" height="614"/>
+	<SubTexture name="susSelected 0013" x="1445" y="1331" width="671" height="614"/>
+	<SubTexture name="susSelected 0014" x="1445" y="1331" width="671" height="614"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "susLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-17
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "susDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				42
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "susUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "susRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "susIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-17
+			],
+			"fps": 24,
+			"anim": "bruh",
+			"indices": [],
+			"name": "susBruh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/calobi-sus",
+	"position": [
+		0,
+		442
+	],
+	"healthicon": "calobi-sus",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		47,
+		104
+	],
+	"camera_position": [
+		-10,
+		60
+	],
+	"sing_duration": 6,
+	"scale": 1
+}
